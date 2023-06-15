@@ -1,4 +1,4 @@
-# Power-BI-HR-Analytics-Dashboard
+# Power-BI-HR-Analytics-Dashboard 
 Procedure Followed:
 ◾ Extract data: The data was received from the client in Excel format.
 ◾ Transform data: Load the data in Power Bi and further, the data was cleaned by Removing null and duplicate values, rectifying spelling errors and data types in Power Query.
