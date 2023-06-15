@@ -1,7 +1,9 @@
 # Power-BI-HR-Analytics-Dashboard 
 Procedure Followed:
 .Extract data: The data was received from the client in Excel format.
+
 .Transform data: Load the data in Power Bi and further, the data was cleaned by Removing null and duplicate values, rectifying spelling errors and data types in Power Query.
+
 . Load data: The transformed data was loaded into Power View for further analysis.
 . Data Modelling: The data modelling process was undertaken to create a logical structure for the data, enabling it to be analyzed and visualized effectively
 . Writing DAX: The data was further refined using the Data Analysis Expressions (DAX) language to create calculated measures and calculated columns for advanced analysis
