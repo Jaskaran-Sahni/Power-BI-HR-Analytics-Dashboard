@@ -5,9 +5,13 @@ Procedure Followed:
 .Transform data: Load the data in Power Bi and further, the data was cleaned by Removing null and duplicate values, rectifying spelling errors and data types in Power Query.
 
 . Load data: The transformed data was loaded into Power View for further analysis.
+
 . Data Modelling: The data modelling process was undertaken to create a logical structure for the data, enabling it to be analyzed and visualized effectively
+
 . Writing DAX: The data was further refined using the Data Analysis Expressions (DAX) language to create calculated measures and calculated columns for advanced analysis
+
 . Report Building: Once the data was prepared, the dashboard was built with a focus on creating intuitive, user-friendly reports and visualizations
+
 . Publish Report: Finally, the dashboard was published on Power BI Service, allowing the client to easily access the data and insights. A comprehensive report of insights and recommendations was submitted.
 
 Insights Drawn:
